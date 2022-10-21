@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: a4bca71bf31d50447b5770055d4728e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: belly
+    100002: belly 1
+    100004: belly 2
+    100006: breast1
+    100008: breast1 1
+    100010: breast2
+    100012: breast2 1
+    100014: breast3
+    100016: breast3 1
+    100018: //RootNode
+    100020: fangs
+    100022: head
+    100024: head 1
+    100026: ikHandle1
+    100028: ikHandle2
+    100030: ikHandle4
+    100032: ikHandle5
+    100034: ikHandle8
+    100036: ikHandle9
+    100038: joint
+    100040: joint 1
+    100042: joint14
+    100044: joint15
+    100046: joint16
+    100048: joint18
+    100050: joint19
+    100052: joint2
+    100054: joint20
+    100056: joint22
+    100058: joint22 1
+    100060: joint23
+    100062: joint23 1
+    100064: joint24
+    100066: joint24 1
+    100068: joint3
+    100070: joint4
+    100072: joint6
+    100074: joint7
+    100076: joint8
+    100078: last
+    100080: left_forefoot
+    100082: left_forefoot 1
+    100084: left_hind_leg1
+    100086: left_middle_leg
+    100088: left_middle_leg 1
+    100090: neck
+    100092: neck 1
+    100094: polySurface135
+    100096: polySurface138
+    100098: polySurface139
+    100100: polySurface140
+    100102: polySurface144
+    100104: polySurface145
+    100106: polySurface149
+    100108: polySurface151
+    100110: polySurface151 1
+    100112: polySurface152
+    100114: polySurface152 1
+    100116: polySurface156
+    100118: polySurface156 1
+    100120: polySurface161
+    100122: polySurface166
+    100124: polySurface168
+    100126: polySurface169
+    100128: polySurface179
+    100130: polySurface180
+    100132: polySurface181
+    100134: polySurface183
+    100136: polySurface184
+    100138: polySurface189
+    100140: polySurface190
+    100142: polySurface193
+    100144: polySurface194
+    100146: polySurface202
+    100148: polySurface202 1
+    100150: polySurface203
+    100152: polySurface204
+    100154: polySurface207
+    100156: right_forefoot
+    100158: right_forefoot 1
+    100160: right_hind_leg
+    100162: right_hind_leg 1
+    100164: right_hind_leg 2
+    100166: right_middle_leg
+    100168: right_middle_leg 1
+    100170: sword
+    400000: belly
+    400002: belly 1
+    400004: belly 2
+    400006: breast1
+    400008: breast1 1
+    400010: breast2
+    400012: breast2 1
+    400014: breast3
+    400016: breast3 1
+    400018: //RootNode
+    400020: fangs
+    400022: head
+    400024: head 1
+    400026: ikHandle1
+    400028: ikHandle2
+    400030: ikHandle4
+    400032: ikHandle5
+    400034: ikHandle8
+    400036: ikHandle9
+    400038: joint
+    400040: joint 1
+    400042: joint14
+    400044: joint15
+    400046: joint16
+    400048: joint18
+    400050: joint19
+    400052: joint2
+    400054: joint20
+    400056: joint22
+    400058: joint22 1
+    400060: joint23
+    400062: joint23 1
+    400064: joint24
+    400066: joint24 1
+    400068: joint3
+    400070: joint4
+    400072: joint6
+    400074: joint7
+    400076: joint8
+    400078: last
+    400080: left_forefoot
+    400082: left_forefoot 1
+    400084: left_hind_leg1
+    400086: left_middle_leg
+    400088: left_middle_leg 1
+    400090: neck
+    400092: neck 1
+    400094: polySurface135
+    400096: polySurface138
+    400098: polySurface139
+    400100: polySurface140
+    400102: polySurface144
+    400104: polySurface145
+    400106: polySurface149
+    400108: polySurface151
+    400110: polySurface151 1
+    400112: polySurface152
+    400114: polySurface152 1
+    400116: polySurface156
+    400118: polySurface156 1
+    400120: polySurface161
+    400122: polySurface166
+    400124: polySurface168
+    400126: polySurface169
+    400128: polySurface179
+    400130: polySurface180
+    400132: polySurface181
+    400134: polySurface183
+    400136: polySurface184
+    400138: polySurface189
+    400140: polySurface190
+    400142: polySurface193
+    400144: polySurface194
+    400146: polySurface202
+    400148: polySurface202 1
+    400150: polySurface203
+    400152: polySurface204
+    400154: polySurface207
+    400156: right_forefoot
+    400158: right_forefoot 1
+    400160: right_hind_leg
+    400162: right_hind_leg 1
+    400164: right_hind_leg 2
+    400166: right_middle_leg
+    400168: right_middle_leg 1
+    400170: sword
+    2100000: blinn1
+    2100002: blinn2
+    2100004: lambert1
+    2300000: belly 2
+    2300002: breast1 1
+    2300004: breast2 1
+    2300006: breast3 1
+    2300008: fangs
+    2300010: head 1
+    2300012: joint 1
+    2300014: left_forefoot 1
+    2300016: left_middle_leg 1
+    2300018: polySurface135
+    2300020: polySurface138
+    2300022: polySurface139
+    2300024: polySurface140
+    2300026: polySurface144
+    2300028: polySurface145
+    2300030: polySurface149
+    2300032: polySurface151
+    2300034: polySurface151 1
+    2300036: polySurface152
+    2300038: polySurface152 1
+    2300040: polySurface156
+    2300042: polySurface156 1
+    2300044: polySurface161
+    2300046: polySurface166
+    2300048: polySurface168
+    2300050: polySurface169
+    2300052: polySurface179
+    2300054: polySurface180
+    2300056: polySurface181
+    2300058: polySurface183
+    2300060: polySurface184
+    2300062: polySurface189
+    2300064: polySurface190
+    2300066: polySurface193
+    2300068: polySurface194
+    2300070: polySurface202
+    2300072: polySurface202 1
+    2300074: polySurface203
+    2300076: polySurface204
+    2300078: polySurface207
+    2300080: right_forefoot 1
+    2300082: right_hind_leg 1
+    2300084: right_hind_leg 2
+    2300086: right_middle_leg 1
+    2300088: sword
+    3300000: belly 2
+    3300002: breast1 1
+    3300004: breast2 1
+    3300006: breast3 1
+    3300008: fangs
+    3300010: head 1
+    3300012: joint 1
+    3300014: left_forefoot 1
+    3300016: left_middle_leg 1
+    3300018: polySurface135
+    3300020: polySurface138
+    3300022: polySurface139
+    3300024: polySurface140
+    3300026: polySurface144
+    3300028: polySurface145
+    3300030: polySurface149
+    3300032: polySurface151
+    3300034: polySurface151 1
+    3300036: polySurface152
+    3300038: polySurface152 1
+    3300040: polySurface156
+    3300042: polySurface156 1
+    3300044: polySurface161
+    3300046: polySurface166
+    3300048: polySurface168
+    3300050: polySurface169
+    3300052: polySurface179
+    3300054: polySurface180
+    3300056: polySurface181
+    3300058: polySurface183
+    3300060: polySurface184
+    3300062: polySurface189
+    3300064: polySurface190
+    3300066: polySurface193
+    3300068: polySurface194
+    3300070: polySurface202
+    3300072: polySurface202 1
+    3300074: polySurface203
+    3300076: polySurface204
+    3300078: polySurface207
+    3300080: right_forefoot 1
+    3300082: right_hind_leg 1
+    3300084: right_hind_leg 2
+    3300086: right_middle_leg 1
+    3300088: sword
+    4300000: sword
+    4300002: polySurface139
+    4300004: polySurface140
+    4300006: polySurface189
+    4300008: polySurface138
+    4300010: left_forefoot
+    4300012: polySurface180
+    4300014: polySurface179
+    4300016: polySurface190
+    4300018: polySurface181
+    4300020: left_middle_leg
+    4300022: polySurface152
+    4300024: polySurface202
+    4300026: polySurface151
+    4300028: polySurface156
+    4300030: right_hind_leg
+    4300032: polySurface161
+    4300034: polySurface194
+    4300036: polySurface183
+    4300038: polySurface184
+    4300040: right_forefoot
+    4300042: polySurface145
+    4300044: polySurface193
+    4300046: polySurface144
+    4300048: polySurface149
+    4300050: right_middle_leg
+    4300052: polySurface152
+    4300054: polySurface202
+    4300056: polySurface151
+    4300058: polySurface156
+    4300060: right_hind_leg
+    4300062: belly
+    4300064: polySurface168
+    4300066: polySurface166
+    4300068: polySurface169
+    4300070: joint
+    4300072: breast3
+    4300074: breast2
+    4300076: head
+    4300078: fangs
+    4300080: polySurface203
+    4300082: polySurface135
+    4300084: polySurface207
+    4300086: breast1
+    4300088: polySurface204
+    7400000: 1
+    7400002: 2
+    7400004: 3
+    7400006: wait
+    7400008: 4
+    7400010: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: end1
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: end2
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: end3
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: end4
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: wait
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
